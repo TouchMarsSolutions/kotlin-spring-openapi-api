@@ -7,6 +7,7 @@ target/
 !**/src/test/**/build/
 gradle-wrapper.*
 gradlew*
+.DS_Store
 
 ### STS ###
 .apt_generated
